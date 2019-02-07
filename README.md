@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and `--typescript`
+
+## What Include
+
+- TSLint.
+- Prettier commit hook.
+- React Hook example.
 
 ## Available Scripts
 
